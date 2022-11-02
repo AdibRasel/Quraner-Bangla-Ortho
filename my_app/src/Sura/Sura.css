@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Main_Box{
+    padding: 10px 50px 10px 50px;
+    overflow: hidden;
+}
+
+.Title{
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+
+.Top_bg{
+    background: url("../assets/Sura_bg_1.jpg");
+    height: 100px;
+    height: 100px;
+    width: auto;
+    background-size: contain;
+    background-repeat: round;
+}
+
+.Arbi{
+    float: left;
+    width: 50%;
+    line-height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.Bangla{
+    float: right;
+    width: 50%;
+    line-height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.Bottom_bg{
+    background: url("../assets/Sura_bg_2.jpg");
+    height: 75px;
+    width: auto;
+    background-size: contain;
+    background-repeat: round;
+}
+
+
+
+
