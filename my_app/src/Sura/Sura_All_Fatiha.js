@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Sura.css'
+import "./Sura.css"
 
 export default function Sura_All_Fatiha() {
   return (<>
